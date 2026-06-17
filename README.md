@@ -23,8 +23,7 @@ This project is a responsive landing page developed for Sprint 01 of the Prodesk
 * JavaScript
 
 ## Live Demo
-
-Add your Vercel deployment URL here.
+https://chipper-ganache-5ee2a1.netlify.app/
 
 ## Screenshot
 <img width="1882" height="916" alt="image" src="https://github.com/user-attachments/assets/1b6e761f-9d1f-4713-b529-945835ee9dd0" />
